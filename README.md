@@ -1,2 +1,5 @@
 # Kaggle
-By python and scala
+Kaggle Python
+
+环境： python3
+       Pycharm+Anaconda
